@@ -1,2 +1,3 @@
 # omero-client
-Omero client Singularity recipes.
+This container provides the Python 2.7 bindings for:
+    * Omero 5.4.0 (CLI and Client)
